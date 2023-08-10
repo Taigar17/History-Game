@@ -1,8 +1,11 @@
 # History-Game
- ### This is a Unity 3D history explorer game, developed during my final year of University.
+ ### This is a Unity 3D history explorer game, developed during my final year of University. (2022/2023)
 
 ## How To Play:
-
+- W/A/S/D Keys = Are used to move your characters.
+- Space Bar = Used to jump.
+- 'g' = Used to interact with objects
+  
 ## Game Objectives:
 + The aim of this project is to create a moderately interactive and informative historical world simulation. The ultimate objective is to craft a functional 3D educational game for exploring history, employing the Unity engine.
 
@@ -20,7 +23,11 @@ Have other historical levels the player can visit, like a ‘mediaeval england�
 Attempt to accurately convey historical information, in order to not spread misinformation through the environment and pop up text. 
 
 ## Game Levels:
-- Update
+- Present Day - A explorable city with a museum and various portals.
+- Ancient Egypt
+- Mediaeval 14th Century England
+- Early Imperial China's (Han Dynasty) [In development]
+- Indus Valley Civilization [In development]
 
 ## Project Purpose:
-The purpose of this project will be to develop an educational informative world that the user can interact with and explore. For this project proposal the theme of this explorable world will be ‘world history’. The player will start in a museum that will have different historical areas to explore and interact with. The aim of this will be to encourage accurately educating people in varied world history. The historical events that will be included are early imperial China's Han Dynasty, the Indus Valley Civilization, the Kingdom of Mewar, Mediaeval 14th Century England and Ancient Egyptians building the Pyramids. I will start by creating the museum and create different interactive doors that take the player to each different event in time. Once the museum is created I will research and recreate these different events on different levels. Each will include interactive features, like objects, statues or other assets that will provide information for the player. After the levels have been created, then I will bug test each element of this virtual world to check if it works as intended. 
+The purpose of this project will be to develop an educational informative world that the user can interact with and explore. For this project proposal the theme of this explorable world will be ‘world history’. The player will start in the present day level and be able to access the museum. In this level the player will be able to find collectables scattered and explore the portals. Pop up text will ocassionally occur to inform the player of the environment they have interacted with. The aim of this will be to encourage accurately educating people in varied world history. 
